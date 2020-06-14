@@ -1,5 +1,5 @@
 
-
+// a = '11'  b = '1' a + b = '100'
 public String addBinary(String a, String b)
 {
 	StringBuilder sb = new StringBuilder();
